@@ -1,0 +1,52 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><table class="activityTable" style="background-color: rgb(218, 228, 235); width: 100%; border-collapse: collapse;">
+        <thead>
+          <tr style="background-color: rgb(0, 0, 84);">
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">Quality assurance asks questions like:</th>
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">Notes for your project</th>
+
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;">What are the relevant quality standards?</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+
+          </tr>
+          <tr>
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;">How can and should quality be measured?</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Quality will be measured through the following:
+1. Did the project achieve its set-out goals?
+2. Does it aid in maintaining the level of performance over time and 
+3. Through the proportion of project resources devoted to high-quality activities</td>
+
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;">What will be measured?</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Outcome Metrics:
+1. Outcome Quality
+2, Outcome Cost and
+3. Outcome Timing</td>
+
+          </tr>
+          <tr>
+           <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;">When will it be measured?</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">At Intervals:
+Project Quality will be measured at 3 separate points during the project, the conclusion of each phase of the project-
+1. End of Prepare Phase
+2. End of Conduct Phase and
+3. End of Communicate Phase</td>
+
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+          <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;">Who will be responsible for measuring it?</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">As the project manager, I will be responsible for measuring the indices of quality</td>
+
+          </tr>
+					<tr><td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;">What is the criteria for acceptable and not-acceptable quality?</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Acceptable quality will be achieving 70% or more on each of the Outcome Measures above. 
+
+Where the metric evaluation falls below 79%, that will be a non-acceptable quality</td>
+            
+          </tr>
+        </tbody>
+      </table></body></html>
